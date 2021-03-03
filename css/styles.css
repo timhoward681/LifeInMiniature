@@ -26,6 +26,9 @@ p {
     font-size: 1.5em;
     text-align: left;
 }
+.missionStatement {
+    color: white;
+}
 .pageTitle {
     background-color: black;
     color: white;
