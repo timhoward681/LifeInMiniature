@@ -1,0 +1,52 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    float: left;
+    color: white;
+    }
+header {
+    display:inline-block;
+    float: left;
+    background-color: black;
+    color: white;
+    }
+
+p {
+    color: white;
+}
+
+.elite {
+    width: 600px;
+    height: auto;
+   } 
+
+.featuredArtist {
+    font-size: 1.5em;
+}
+.pageTitle {
+    background-color: black;
+    color: white;
+    margin-right: 500px;
+}
+
+.topnav {
+    display: inline-block;
+    float: right;
+    background-color: black;
+    color: white;
+}
+.topnav a {
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+}
+
+.topnav a:hover {
+    color: blue;
+}
+
+
+
