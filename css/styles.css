@@ -4,12 +4,10 @@ body {
 }
 
 h1 {
-    float: left;
     color: white;
     }
 header {
     display:inline-block;
-    float: left;
     background-color: black;
     color: white;
     }
@@ -21,10 +19,12 @@ p {
 .elite {
     width: 600px;
     height: auto;
+    float: left;
    } 
 
 .featuredArtist {
     font-size: 1.5em;
+    text-align: left;
 }
 .pageTitle {
     background-color: black;
@@ -42,7 +42,7 @@ p {
     color: white;
     text-align: center;
     padding-left: 10px;
-}
+    }
 
 .topnav a:hover {
     color: blue;
